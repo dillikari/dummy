@@ -8,4 +8,5 @@ def one(a):
     return two
 result=one(10)
 for val in range(1,5):
+    print("hello world")
     result(val)
